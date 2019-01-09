@@ -1,2 +1,2 @@
 # go to the link below:
-http://bonzibuddy.github.io/game
+http://bonzibuddy801.github.io/game
